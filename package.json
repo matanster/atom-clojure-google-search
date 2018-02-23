@@ -1,0 +1,16 @@
+{
+  "name": "google-clojure-search",
+  "main": "./lib/googlesearch",
+  "version": "1.8.0",
+  "description": "Search google for \"clojure\" + the highlighted word",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "online-clojure-search:search"
+  },
+  "repository": "https://github.com/matanster/atom-clojure-google-search",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
