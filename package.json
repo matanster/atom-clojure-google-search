@@ -4,9 +4,6 @@
   "version": "0.1.0",
   "description": "Search online for the clojure function highlighted",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "online-clojure-search"
-  },
   "repository": "https://github.com/matanster/atom-online-clojure-search",
   "license": "MIT",
   "engines": {
