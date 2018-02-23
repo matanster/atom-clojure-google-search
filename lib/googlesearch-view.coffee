@@ -7,13 +7,13 @@ class GooglesearchView
 
     # Create message element
     message = document.createElement('div')
-    message.textContent = "The Googlesearch package is Alive! It's ALIVE!"
+    message.textContent = "atom-clojure-google-search loaded"
     message.classList.add('message')
     @element.appendChild(message)
 
   # Returns an object that can be retrieved when package is activated
   serialize: ->
-    
+
   destroy: ->
     @element.remove()
 

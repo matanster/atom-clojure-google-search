@@ -1,4 +1,9 @@
-# googlesearch package
+# search google for clojure docs of the text highlighted
 
-* Search highlighted word in Google.
-* You can search selected word using shortcut ctrl-shift-g.
+Search google for "clojure" + the highlighted word.
+
+
+The default keyboard mapping is `ctrl-shift-g`
+
+
+Forked from https://github.com/jigarmistry/googlesearch

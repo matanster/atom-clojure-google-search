@@ -12,5 +12,5 @@ module.exports =
     buffer.transact ->
       for selection in selections
         cased = selection.getText()
-        url = "https://encrypted.google.com/search?q=#{cased}&oq=#{cased}"
+        url = "https://encrypted.google.com/search?q=clojure #{cased}&oq=#{cased}"
         Shell.openExternal url

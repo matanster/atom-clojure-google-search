@@ -1,13 +1,13 @@
 {
-  "name": "googlesearch",
-  "main": "./lib/googlesearch",
+  "name": "google-clojure-search",
+  "main": "./lib/google-clojure-search",
   "version": "1.5.0",
-  "description": "Search Highlighted word in google",
+  "description": "Search google for "clojure" + the highlighted word",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "googlesearch:google-it"
+    "atom-workspace": "google-clojure:search"
   },
-  "repository": "https://github.com/jigarmistry/googlesearch",
+  "repository": "https://github.com/matanster/atom-clojure-google-search",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
