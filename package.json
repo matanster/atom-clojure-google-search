@@ -1,7 +1,7 @@
 {
   "name": "online-clojure-search",
   "main": "./lib/googlesearch",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Search online for the clojure function highlighted",
   "keywords": [],
   "activationCommands": {
