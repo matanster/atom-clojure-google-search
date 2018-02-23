@@ -1,7 +1,7 @@
 {
   "name": "google-clojure-search",
   "main": "./lib/googlesearch",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "Search google for \"clojure\" + the highlighted word",
   "keywords": [],
   "activationCommands": {
